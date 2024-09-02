@@ -180,33 +180,7 @@
     * [拒绝了一家公司的offer后，他们的副总和hr总监同时打电话来询问拒绝原因并极力要求加入，我该不该去？](articles/程序员的烦心事/拒绝了一家公司的offer后，他们的副总和hr总监同时打电话来询问拒绝原因并极力要求加入，我该不该去？.md)
     * [我是一名程序员，结婚时女友要求我用两年的工资作为彩礼，我该不该答应？](articles/程序员的烦心事/我是一名程序员，结婚时女友要求我用两年的工资作为彩礼，我该不该答应？.md)
 
-* [作者的故事](articles/作者的故事/README.md)
-    * [我的 2019](articles/作者的故事/我的2019.md)
-    * [我是如何年薪五十万的](articles/作者的故事/我是如何年薪五十万的.md)
     
-
-## 贡献者
-
-<a href="https://github.com/balloonwj/CppGuide/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=balloonwj/CppGuide" />
-</a>
-
-> 你也可以给该仓库提交修改内容，如果你的 PULL Requeset 被采纳，你的名字将会出现在贡献者列表中。
-
-> 如果您在阅读上述文章的过程中有任何问题或者建议，可以加本仓库微信交流群交流，可以先微信 easy_coder，备注“CppGuide”，备注不对不加哦。
-
-> 仓库中部分文章来源于网络，侵权请联系删除。
-
-> 本仓库备份QQ交流群：169315117
-
-## 捐赠与支持
-
-如果你觉得本仓库对你有帮助，想可以请小方喝杯咖啡，扫描下面的任一二维码捐赠即可。
-
-![](articles/wechat_pay.png)
-![](articles/zfb_pay.png)
-
-
 
 Good Luck and Enjoy it!
 
